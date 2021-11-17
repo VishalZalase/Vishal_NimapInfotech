@@ -1,0 +1,36 @@
+﻿body {
+}
+
+tr.even {
+    background-color: #F5F5F5 !important;
+}
+.row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.clsText {
+    font-weight: bold;
+}
+
+.panel-heading {
+    font-size: 18px;
+}
+
+.panel-primary {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.errorMsg {
+    color: red;
+    display: none;
+}
+
+.cssbtn {
+    padding: 2px;
+}
+
+.modal-dialog {
+    width: 60%;
+}
